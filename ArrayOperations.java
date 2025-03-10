@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class DailyTaskManager {
+public class ArrayOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
